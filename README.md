@@ -11,15 +11,3 @@ Hi there, I'm <a href="https://juejin.cn/user/4212984286281870">LengYue</a> ， 
   </a>
 </div>
 
-<div class="wrap" style="overflow-x: auto;overflow-y: hidden; ">
-
-  <a href="https://github.com/appdev/FlutterToast">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=appdev&repo=FlutterToast"
-      width=350px height=130px />
-  </a>
-
-  <a href="https://github.com/appdev/siyuan-unlock">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=appdev&repo=siyuan-unlock"
-      width=350px height=130px />
-  </a>
-</div>
